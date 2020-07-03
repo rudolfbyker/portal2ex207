@@ -1,0 +1,1633 @@
+//**************************************
+//***START OF BATCH 131
+//**************************************
+"cavejohnson.DLC2_2000_CAVEPRIME_CONV_A01"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"vo/cavejohnson/DLC2_2000_CAVEPRIME_CONV_A01.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}
+"cavejohnson.DLC2_2100_CAVEPRIME_CONV_B01"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"vo/cavejohnson/DLC2_2100_CAVEPRIME_CONV_B01.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}
+"cavejohnson.DLC2_2200_CAVEPRIME_CONV_C01"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"vo/cavejohnson/DLC2_2200_CAVEPRIME_CONV_C01.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}
+"cavejohnson.DLC2_2300_CAVEPRIME_CONV_D01"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"vo/cavejohnson/DLC2_2300_CAVEPRIME_CONV_D01.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}
+"cavejohnson.DLC2_2700_CAVEPRIME_CONV_E01"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"vo/cavejohnson/DLC2_2700_CAVEPRIME_CONV_E01.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}
+"cavejohnson.DLC2_2800_CAVEPRIME_CONV_F01"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"vo/cavejohnson/DLC2_2800_CAVEPRIME_CONV_F01.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}
+"cavejohnson.DLC2_1000_CAVEPRIME_DARKINTRO01"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"vo/cavejohnson/DLC2_1000_CAVEPRIME_DARKINTRO01.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}
+"cavejohnson.DLC2_1100_CAVEPRIME_DARKINTRO02"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"vo/cavejohnson/DLC2_1100_CAVEPRIME_DARKINTRO02.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}
+"cavejohnson.DLC2_1200_CAVEPRIME_DARKINTRO03"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"vo/cavejohnson/DLC2_1200_CAVEPRIME_DARKINTRO03.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}
+"cavejohnson.DLC2_1300_CAVEPRIME_DARKINTRO06"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"vo/cavejohnson/DLC2_1300_CAVEPRIME_DARKINTRO06.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}
+"cavejohnson.DLC2_1400_CAVEPRIME_DARKINTRO07"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"vo/cavejohnson/DLC2_1400_CAVEPRIME_DARKINTRO07.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}
+"cavejohnson.DLC2_1500_CAVEPRIME_DARKINTRO08"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"vo/cavejohnson/DLC2_1500_CAVEPRIME_DARKINTRO08.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}
+"cavejohnson.DLC2_1600_CAVEPRIME_DARKINTRO09"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"vo/cavejohnson/DLC2_1600_CAVEPRIME_DARKINTRO09.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}
+"cavejohnson.DLC2_1700_CAVEPRIME_DARKINTRO10"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"vo/cavejohnson/DLC2_1700_CAVEPRIME_DARKINTRO10.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}
+"cavejohnson.DLC2_1800_CAVEPRIME_DARKINTRO11"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"vo/cavejohnson/DLC2_1800_CAVEPRIME_DARKINTRO11.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}
+"cavejohnson.DLC2_1900_CAVEPRIME_DARKINTRO12"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"vo/cavejohnson/DLC2_1900_CAVEPRIME_DARKINTRO12.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}
+"cavejohnson.DLC2_0100_CAVEPRIME_MISC01"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"vo/cavejohnson/DLC2_0100_CAVEPRIME_MISC01.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}
+"cavejohnson.DLC2_0200_CAVEPRIME_MISC02"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"vo/cavejohnson/DLC2_0200_CAVEPRIME_MISC02.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}
+"cavejohnson.DLC2_0300_CAVEPRIME_MISC03"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"vo/cavejohnson/DLC2_0300_CAVEPRIME_MISC03.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}
+"cavejohnson.DLC2_0400_CAVEPRIME_MISC04"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"vo/cavejohnson/DLC2_0400_CAVEPRIME_MISC04.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}
+"cavejohnson.DLC2_0500_CAVEPRIME_MISC05"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"vo/cavejohnson/DLC2_0500_CAVEPRIME_MISC05.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}
+"cavejohnson.DLC2_0600_CAVEPRIME_MISC06"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"vo/cavejohnson/DLC2_0600_CAVEPRIME_MISC06.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}
+"cavejohnson.DLC2_0700_CAVEPRIME_MISC07"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"vo/cavejohnson/DLC2_0700_CAVEPRIME_MISC07.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}
+"cavejohnson.DLC2_0701_CAVEPRIME_MISC08"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"vo/cavejohnson/DLC2_0701_CAVEPRIME_MISC08.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}
+"cavejohnson.DLC2_0702_CAVEPRIME_MISC09"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"vo/cavejohnson/DLC2_0702_CAVEPRIME_MISC09.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}
+"cavejohnson.DLC2_0800_CAVEPRIME_MISC10"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"vo/cavejohnson/DLC2_0800_CAVEPRIME_MISC10.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}
+"cavejohnson.DLC2_2400_CAVEPRIME_MONEYVERSE01"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"vo/cavejohnson/DLC2_2400_CAVEPRIME_MONEYVERSE01.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}
+"cavejohnson.DLC2_2500_CAVEPRIME_MONEYVERSE02"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"vo/cavejohnson/DLC2_2500_CAVEPRIME_MONEYVERSE02.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}
+"cavejohnson.DLC2_2600_CAVEPRIME_MONEYVERSE03"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"vo/cavejohnson/DLC2_2600_CAVEPRIME_MONEYVERSE03.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}
+"cavejohnson.DLC2_2900_CAVEPRIME_MONEYVERSE04"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"vo/cavejohnson/DLC2_2900_CAVEPRIME_MONEYVERSE04.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}
+//**************************************
+//***END OF BATCH 131
+//**************************************
+
+//**************************************
+//***START OF BATCH 132
+//**************************************
+"cavejohnson.DLC2_0780_ALTCAVE_BLAPPETURE_MESA01"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"vo/cavejohnson/DLC2_0780_ALTCAVE_BLAPPETURE_MESA01.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}
+"cavejohnson.DLC2_0610_ALTCAVE_BLARK_BARG01"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"vo/cavejohnson/DLC2_0610_ALTCAVE_BLARK_BARG01.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}
+"cavejohnson.DLC2_0770_ALTCAVE_BODY_SNATCHERS01"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"vo/cavejohnson/DLC2_0770_ALTCAVE_BODY_SNATCHERS01.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}
+"cavejohnson.DLC2_0760_ALTCAVE_CAR_KEYS01"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"vo/cavejohnson/DLC2_0760_ALTCAVE_CAR_KEYS01.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}
+"cavejohnson.DLC2_0775_ALTCAVE_CAT_JOHNSON01"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"vo/cavejohnson/DLC2_0775_ALTCAVE_CAT_JOHNSON01.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}
+"cavejohnson.DLC2_0830_ALTCAVE_CAVINA01"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"silence.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}
+"cavejohnson.DLC2_0660_ALTCAVE_CREEPY_CAVE01"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"vo/cavejohnson/DLC2_0660_ALTCAVE_CREEPY_CAVE01.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}
+"cavejohnson.DLC2_0430_ALTCAVE_DANCE_POLICE01"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"vo/cavejohnson/DLC2_0430_ALTCAVE_DANCE_POLICE01.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}
+"cavejohnson.DLC2_0710_ALTCAVE_DEAD_CAVE01"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"vo/cavejohnson/DLC2_0710_ALTCAVE_DEAD_CAVE01.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}
+"cavejohnson.DLC2_0711_ALTCAVE_DEAD_CAVE02"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"vo/cavejohnson/DLC2_0711_ALTCAVE_DEAD_CAVE02.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}
+"cavejohnson.DLC2_0712_ALTCAVE_DEAD_CAVE03"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"vo/cavejohnson/DLC2_0712_ALTCAVE_DEAD_CAVE03.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}
+"cavejohnson.DLC2_0713_ALTCAVE_DEAD_CAVE04"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"vo/cavejohnson/DLC2_0713_ALTCAVE_DEAD_CAVE04.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}
+"cavejohnson.DLC2_0714_ALTCAVE_DEAD_CAVE05"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"vo/cavejohnson/DLC2_0714_ALTCAVE_DEAD_CAVE05.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}
+"cavejohnson.DLC2_0715_ALTCAVE_DEAD_CAVE06"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"vo/cavejohnson/DLC2_0715_ALTCAVE_DEAD_CAVE06.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}
+"cavejohnson.DLC2_0716_ALTCAVE_DEAD_CAVE07"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"vo/cavejohnson/DLC2_0716_ALTCAVE_DEAD_CAVE07.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}
+"cavejohnson.DLC2_0717_ALTCAVE_DEAD_CAVE08"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"vo/cavejohnson/DLC2_0717_ALTCAVE_DEAD_CAVE08.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}
+"cavejohnson.DLC2_0718_ALTCAVE_DEAD_CAVE09"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"vo/cavejohnson/DLC2_0718_ALTCAVE_DEAD_CAVE09.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}
+"cavejohnson.DLC2_1710_ALTCAVE_EGGSHELLS01"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"silence.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}
+"cavejohnson.DLC2_2305_ALTCAVE_GASOLINE01"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"vo/cavejohnson/DLC2_2305_ALTCAVE_GASOLINE01.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}
+"cavejohnson.DLC2_0670_ALTCAVE_GREGS_CREEPY_KID01"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"vo/cavejohnson/DLC2_0670_ALTCAVE_GREGS_CREEPY_KID01.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}
+"cavejohnson.DLC2_0620_ALTCAVE_HEAD_EXPLODING01"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"vo/cavejohnson/DLC2_0620_ALTCAVE_HEAD_EXPLODING01.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}
+"cavejohnson.DLC2_0560_ALTCAVE_HOBO_KING01"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"vo/cavejohnson/DLC2_0560_ALTCAVE_HOBO_KING01.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}
+"cavejohnson.DLC2_0810_ALTCAVE_INVASION01"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"vo/cavejohnson/DLC2_0810_ALTCAVE_INVASION01.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}
+"cavejohnson.DLC2_0811_ALTCAVE_INVASION02"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"vo/cavejohnson/DLC2_0811_ALTCAVE_INVASION02.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}
+"cavejohnson.DLC2_0630_ALTCAVE_JOHNSONS_RUN01"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"vo/cavejohnson/DLC2_0630_ALTCAVE_JOHNSONS_RUN01.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}
+"cavejohnson.DLC2_0820_ALTCAVE_KILLER_ANTS01"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"vo/cavejohnson/DLC2_0820_ALTCAVE_KILLER_ANTS01.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}
+"cavejohnson.DLC2_0750_ALTCAVE_MAGIC01"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"vo/cavejohnson/DLC2_0750_ALTCAVE_MAGIC01.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}
+"cavejohnson.DLC2_0650_ALTCAVE_MANTIS_ATTACK01"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"silence.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}
+"cavejohnson.DLC2_0540_ALTCAVE_MAN_MANTIS01"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"vo/cavejohnson/DLC2_0540_ALTCAVE_MAN_MANTIS01.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}
+"cavejohnson.DLC2_0410_ALTCAVE_MATING_RITUAL01"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"vo/cavejohnson/DLC2_0410_ALTCAVE_MATING_RITUAL01.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}
+"cavejohnson.DLC2_0840_ALTCAVE_PEANUT_AIR01"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"vo/cavejohnson/DLC2_0840_ALTCAVE_PEANUT_AIR01.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}
+"cavejohnson.DLC2_0510_ALTCAVE_PENAL_SCIENCE01"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"vo/cavejohnson/DLC2_0510_ALTCAVE_PENAL_SCIENCE01.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}
+"cavejohnson.DLC2_0520_ALTCAVE_PENAL_SCIENCE02"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"vo/cavejohnson/DLC2_0520_ALTCAVE_PENAL_SCIENCE02.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}
+"cavejohnson.DLC2_0530_ALTCAVE_PENAL_SCIENCE03"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"vo/cavejohnson/DLC2_0530_ALTCAVE_PENAL_SCIENCE03.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}
+"cavejohnson.DLC2_2310_ALTCAVE_PLANET_CAVE01"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"vo/cavejohnson/DLC2_2310_ALTCAVE_PLANET_CAVE01.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}
+"cavejohnson.DLC2_0785_ALTCAVE_PURE_SALT01"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"vo/cavejohnson/DLC2_0785_ALTCAVE_PURE_SALT01.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}
+"cavejohnson.DLC2_0440_ALTCAVE_ROBOT_A_COP01"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"vo/cavejohnson/DLC2_0440_ALTCAVE_ROBOT_A_COP01.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}
+"cavejohnson.DLC2_0450_ALTCAVE_ROBOT_A_COP02"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"vo/cavejohnson/DLC2_0450_ALTCAVE_ROBOT_A_COP02.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}
+"cavejohnson.DLC2_0550_ALTCAVE_SAT_OF_LOVE01"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"vo/cavejohnson/DLC2_0550_ALTCAVE_SAT_OF_LOVE01.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}
+"cavejohnson.DLC2_0551_ALTCAVE_SAT_OF_LOVE02"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"vo/cavejohnson/DLC2_0551_ALTCAVE_SAT_OF_LOVE02.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}
+"cavejohnson.DLC2_0552_ALTCAVE_SAT_OF_LOVE03"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"vo/cavejohnson/DLC2_0552_ALTCAVE_SAT_OF_LOVE03.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}
+"cavejohnson.DLC2_0310_ALTCAVE_SENTIENTCLOUD01"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"vo/cavejohnson/DLC2_0310_ALTCAVE_SENTIENTCLOUD01.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}
+"cavejohnson.DLC2_0311_ALTCAVE_SENTIENTCLOUD03"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"vo/cavejohnson/DLC2_0311_ALTCAVE_SENTIENTCLOUD03.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}
+"cavejohnson.DLC2_0312_ALTCAVE_SENTIENTCLOUD04"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"vo/cavejohnson/DLC2_0312_ALTCAVE_SENTIENTCLOUD04.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}
+"cavejohnson.DLC2_0313_ALTCAVE_SENTIENTCLOUD05"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"vo/cavejohnson/DLC2_0313_ALTCAVE_SENTIENTCLOUD05.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}
+"cavejohnson.DLC2_1720_ALTCAVE_SMOKEY_JOHNSON01"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"vo/cavejohnson/DLC2_1720_ALTCAVE_SMOKEY_JOHNSON01.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}
+"cavejohnson.DLC2_0420_ALTCAVE_SOYLENT01"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"vo/cavejohnson/DLC2_0420_ALTCAVE_SOYLENT01.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}
+"cavejohnson.DLC2_2110_ALTCAVE_SUNGLASSES01"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"vo/cavejohnson/DLC2_2110_ALTCAVE_SUNGLASSES01.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}
+"cavejohnson.DLC2_0765_ALTCAVE_SUPERMAXLANTIS01"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"vo/cavejohnson/DLC2_0765_ALTCAVE_SUPERMAXLANTIS01.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}
+"cavejohnson.DLC2_0825_ALTCAVE_TIMMY01"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"vo/cavejohnson/DLC2_0825_ALTCAVE_TIMMY01.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}
+"cavejohnson.DLC2_0640_ALTCAVE_YOUNG_CAVE01"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"pitch"	"100"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"vo/cavejohnson/DLC2_0640_ALTCAVE_YOUNG_CAVE01.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"import_stack" "update_dialog"
+			"mixer"
+			{
+				"mixgroup" "gladosVO"
+			}
+		}
+	}
+}
+//**************************************
+//***END OF BATCH 132
+//**************************************

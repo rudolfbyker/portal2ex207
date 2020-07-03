@@ -1,0 +1,20 @@
+"GameInfo"
+{
+    game            "Portal 2 – Exodus 20:7"
+    title           "Portal 2 – Exodus 20:7"
+    gamelogo        1
+    SupportsDX8     0
+    SupportsXbox360 1
+    FileSystem
+    {
+        SteamAppId  620 // Portal 2 has ID 620
+        ToolsAppId  211 // Hammer
+        SearchPaths
+        {
+            Game    |gameinfo_path|.
+            Game    portal2_dlc2
+            Game    portal2_dlc1
+            Game    portal2
+        }
+    }
+}
