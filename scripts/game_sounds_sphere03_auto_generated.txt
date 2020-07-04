@@ -838,7 +838,7 @@
 	"volume"	"VOL_NORM"
 	"pitch"	"100"
 	"soundlevel"	"SNDLVL_110dB"
-	"wave"	"vo/wheatley/sphere_flashlight_tour72.wav"
+	"wave"	"silence.wav"
 	"soundentry_version" "2"
 	"operator_stacks"
 	{

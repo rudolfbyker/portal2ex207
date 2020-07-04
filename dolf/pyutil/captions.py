@@ -20,6 +20,7 @@ def should_censor(message: str) -> bool:
         'jesus',
         'christ',
         'lord',
+        'oh for...',
     ]
 
     ignore = [
